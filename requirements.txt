@@ -1,0 +1,10 @@
+jupyter
+jupyterlab
+jupyter-server-proxy
+scikit-learn
+pandas
+numpy
+matplotlib
+lightgbm
+imbalanced-learn
+scipy
